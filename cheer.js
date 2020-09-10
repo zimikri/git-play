@@ -1,3 +1,3 @@
-function cheer(){
-    console.log('JAVA!!');
+function cheer(param){
+    console.log(`'Cheer for the ${param}`);
 }
