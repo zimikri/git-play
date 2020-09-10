@@ -3,8 +3,8 @@
 let age = 27;
 let name = 'Zoli'
 
-function count(name, age) {
-    console.log(`${name}'s is ${age}`);
+function count(age) {
+    console.log(`Counting the countless ${age}`);
 };
 
 count(name, age);
