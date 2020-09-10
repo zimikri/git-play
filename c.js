@@ -1,3 +1,3 @@
-function cheer(){
-    console.log('Afters');
+function cheer(param){
+    console.log(param);
 }
