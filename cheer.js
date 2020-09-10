@@ -1,3 +1,3 @@
 function cheer(){
-    console.log('JAVA');
+    console.log('JAVA!!');
 }
