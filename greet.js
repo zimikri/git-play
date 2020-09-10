@@ -1,5 +1,5 @@
 'use strict';
 
-function greet() {
-    console.log('Krisz');
+function greet(count) {
+    console.log(count);
 }
