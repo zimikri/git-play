@@ -1,5 +1,5 @@
 'use strict';
 
-function greet() {
-    console.log('Greetings! Hello');
+function greet(parameter) {
+    console.log('Greetings for the', parameter);
 }
