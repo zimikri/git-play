@@ -1,7 +1,3 @@
-let language = 'JAVA'
-
-function cheer(param){
-    console.log(param);
+function cheer(){
+    console.log('JAVA');
 }
-
-cheer(language);
